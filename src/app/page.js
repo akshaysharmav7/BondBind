@@ -1,3 +1,19 @@
+import Image from "next/image";
+import logo from "../../public/logo.png";
+import p1 from "../../public/nav/blogs.png";
+import p2 from "../../public/nav/illlustration.png";
+import p3 from "../../public/nav/sounds.png";
+import p4 from "../../public/nav/stockphotos.png";
+import search from "../../public/search.svg";
+
+import grid1 from "../../public/grid1.png";
+import grid2 from "../../public/grid2.png";
+import grid3 from "../../public/grid3.png";
+
+import grid4 from "../../public/grid1.png";
+import grid5 from "../../public/grid2.png";
+import grid6 from "../../public/grid3.png";
+
 export default function Home() {
   return (
     <>
